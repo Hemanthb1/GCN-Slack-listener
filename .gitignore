@@ -1,0 +1,6 @@
+.env
+*.fits
+skymaps/
+__pycache__/
+*.pyc
+.DS_Store
